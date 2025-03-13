@@ -25,3 +25,9 @@ Abra o projeto na sua IDE.
 Em um terminal, utilize o comando ```mvn clean package``` para instalar as dependências, limpar a pasta target e compilar a aplicação novamente.
 
 Vá até a classe "**MinhaMidiaFisicaApplication**" e execute a aplicação.
+
+<br>
+
+# Frontend
+
+Você encontrará o frontend para essa aplicação [clicando aqui](https://github.com/mateussinesio/minha-midia-fisica-frontend.git).
